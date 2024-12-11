@@ -1,5 +1,4 @@
 [System.Reflection.Assembly]::LoadWithPartialName('System.Windows.Forms') | out-null
-Add-Type -AssemblyName System.Windows.Forms
 
 $global:activeModule = $null
 
